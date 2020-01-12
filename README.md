@@ -9,7 +9,7 @@ Embroidery pattern generated using GAN
 ### generatedSamples_epoch250.png
 經過750 epoch之後的成果
 (由於電腦效能的限制，資料及成果的圖片為64*64 )
-##750 epoch 
+##The 750th epoch 
 
 ### data_example.jpg
 訓練用的資料集截圖，共有98張，為求訓練效果，
