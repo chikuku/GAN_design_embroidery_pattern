@@ -4,7 +4,8 @@ Embroidery pattern generated using GAN
 ### GOAL
 Combining embroidery pattern design with GAN Use keras, tensorflow, 
 and GAN to generate patterns from embroidery data to GAN.
-## Embroidery pattern generated using GAN,keras,tensorflow
+Embroidery pattern generated using GAN,keras,tensorflow.
+
 將刺繡圖案設計與GAN結合
 利用keras,tensorflow,GAN 將刺繡資料圖案給GAN生成圖案
 
@@ -24,5 +25,5 @@ The example are Screenshot from the floral embrodinary works, choosing floral to
 Using 98 pictures in the dataset
 
 訓練用的資料集截圖，共有98張，為求訓練效果，
-都選擇了以圓形或橢圓形、花草主題的設計
+都選擇了以圓形或橢圓形、花草主題的設計，因為這種圖案在我的業界較為常見。
 
